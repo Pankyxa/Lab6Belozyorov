@@ -13,4 +13,4 @@
 
 ##### Скриншоты выполнения программы для тестов:
 
-![image](https://user-images.githubusercontent.com/114245476/228026601-6c12ba84-7871-4415-acd8-5af13375f5c1.png)
+![image](https://user-images.githubusercontent.com/114245476/228026845-fbe4bbd7-8697-407a-9ad3-0133d6e83b5b.png)
